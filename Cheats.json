@@ -1,17 +1,31 @@
 {
   "games": [
     {
-      "name": "Game 1",
+      "name": "Counter-Strike 2",
       "cheats": [
-        { "name": "God Mode", "description": "Invincibility" },
-        { "name": "Unlimited Ammo", "description": "Infinite bullets" }
+        {
+          "name": "CS2 Hack Loader",
+          "description": "Loader exe for CS2 cheats",
+          "url": "https://example.com/cs2loader.exe",
+          "processName": ""
+        },
+        {
+          "name": "CS2 DLL Cheat",
+          "description": "DLL cheat for CS2",
+          "url": "https://example.com/cs2cheat.dll",
+          "processName": "cs2"
+        }
       ]
     },
     {
-      "name": "Game 2",
+      "name": "Other Game",
       "cheats": [
-        { "name": "No Clip", "description": "Walk through walls" },
-        { "name": "Infinite Health", "description": "Never die" }
+        {
+          "name": "OtherGame Hack",
+          "description": "Executable hack loader",
+          "url": "https://example.com/othergamehack.exe",
+          "processName": ""
+        }
       ]
     }
   ]
