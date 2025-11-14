@@ -1,0 +1,18 @@
+{
+  "games": [
+    {
+      "name": "Game 1",
+      "cheats": [
+        { "name": "God Mode", "description": "Invincibility" },
+        { "name": "Unlimited Ammo", "description": "Infinite bullets" }
+      ]
+    },
+    {
+      "name": "Game 2",
+      "cheats": [
+        { "name": "No Clip", "description": "Walk through walls" },
+        { "name": "Infinite Health", "description": "Never die" }
+      ]
+    }
+  ]
+}
