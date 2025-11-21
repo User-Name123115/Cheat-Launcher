@@ -1,1 +1,16 @@
-a
+{
+  "record": {
+    "usermode-ver": [
+      "1.0.0.0"
+    ],
+    "kernel-ver": [
+      "1.0.0.0"
+    ]
+  },
+  "metadata": {
+    "id": "691fc291ae596e708f665c70",
+    "private": false,
+    "createdAt": "2025-11-07T19:24:09.318Z",
+    "name": "Plutoaim"
+  }
+}
